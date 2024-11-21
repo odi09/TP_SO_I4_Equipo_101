@@ -10,13 +10,28 @@ C. ¿Qué color de fondo tiene la página en MASTER?
 Azul
 
 D. ¿Qué favicon quedó en el MASTER, el de ALFA o el de BETA?
+
 Prevaleceio el último fusionado.
 
 Pregunta:
 E- ¿Algún integrante tuvo problemas al hacer el push?
+
+Tuvieron problemos Beta y Gamma
+
 F- ¿Qué problemas surgieron?
+
+No nos dejaba realizar el push sin realizar el pull antes
+
 G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
 adoptada?
+
+Utilizar el pull antes de agregar un cambio
+
 H- ¿Qué sucede si cada uno utiliza el push -f?
+
+Se sobreescriben las lineas y se pueden llegar a borrar datos
+
 I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
 en DESARROLLO ?
+
+Hacer el merge de testing a desarrollo
