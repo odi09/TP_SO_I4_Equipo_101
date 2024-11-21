@@ -1,0 +1,22 @@
+Diaz Orlando
+
+A. ¿Qué color de fondo tiene la página en TESTING?
+Azul 
+
+B. ¿Qué color de fondo tiene la página en DESARROLLO?
+Amarillo 
+
+C. ¿Qué color de fondo tiene la página en MASTER?
+Azul
+
+D. ¿Qué favicon quedó en el MASTER, el de ALFA o el de BETA?
+Prevaleceio el último fusionado.
+
+Pregunta:
+E- ¿Algún integrante tuvo problemas al hacer el push?
+F- ¿Qué problemas surgieron?
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+H- ¿Qué sucede si cada uno utiliza el push -f?
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
